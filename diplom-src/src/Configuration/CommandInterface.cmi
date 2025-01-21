@@ -4,5 +4,9 @@
     <subsystems>Subsystem.ПокупкиИПродажи</subsystems>
     <subsystems>Subsystem.Деньги</subsystems>
     <subsystems>Subsystem.Администрирование</subsystems>
+    <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
+    <subsystems>Subsystem.ВКМ_Сотрудники</subsystems>
+    <subsystems>Subsystem.ВКМ_Служебное</subsystems>
+    <subsystems>Subsystem.ВКМ_Телеграм</subsystems>
   </subsystemsOrder>
 </cmi:CommandInterface>

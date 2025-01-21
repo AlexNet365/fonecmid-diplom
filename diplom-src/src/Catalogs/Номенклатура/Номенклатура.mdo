@@ -113,6 +113,22 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="dbeff6fc-96b0-4544-83cf-c9653e46b4f2">
+      <name>ВКМ_АбонентскаяПлата</name>
+      <description>Абонентская плата</description>
+      <code xsi:type="core:StringValue">
+        <value>000000101</value>
+      </code>
+    </items>
+    <items id="6fe9a806-a5a9-459f-bec4-25c8968ef50b">
+      <name>ВКМ_РаботаСпециалиста</name>
+      <description>Работа специалиста</description>
+      <code xsi:type="core:StringValue">
+        <value>000000102</value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <attributes uuid="8db01813-8393-4e32-bb13-31d873e74aed">

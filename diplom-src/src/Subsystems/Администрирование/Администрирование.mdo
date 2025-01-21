@@ -66,4 +66,14 @@
   <content>Report.АнализПравДоступа</content>
   <content>CommonForm.ВосстановлениеПаролей</content>
   <content>Report.ПраваРолей</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>Enum.ВКМ_КатегорииСотрудников</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафика</content>
+  <content>Catalog.ВКМ_ГрафикиРаботы</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>Catalog.ВКМ_ФизическиеЛица</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>AccumulationRegister.ВКМ_УчетОтпусков</content>
+  <content>Report.ВКМ_РасчётыССотрудниками</content>
 </mdclass:Subsystem>
